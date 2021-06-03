@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💪 Habilidades: <strong>Java, Spring Boot, JavaScript, Bootstrap, MySQL.</strong>
+  💪 Habilidades: <strong>Java, Spring Boot, JavaScript, Bootstrap, MySQL, PHP e Laravel, AWS, Git Github.</strong>
 </p>
 
 <p align="left">
